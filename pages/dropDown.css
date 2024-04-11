@@ -1,0 +1,604 @@
+.drop-down .capa-1 {
+  margin-bottom: 20px;
+  width: 24px;
+  height: 33px;
+}
+.drop-down .begin-my-journey {
+  position: relative;
+  margin: 0 113.9px 66px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'SterlingDisplay', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 0.829;
+  text-transform: capitalize;
+  color: #700606;
+}
+.drop-down .vector-3 {
+  width: 16px;
+  height: 13px;
+}
+.drop-down .frame-1701 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+  background: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  top: 50%;
+  right: 0px;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 14px;
+  width: 44px;
+  height: 27px;
+  box-sizing: border-box;
+}
+.drop-down .vector-4 {
+  width: 16px;
+  height: 13px;
+}
+.drop-down .frame-1706 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+  background: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  left: 0px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 14px;
+  width: 44px;
+  height: 27px;
+  box-sizing: border-box;
+}
+.drop-down .nupur-padhye-gaurvi-desai-173533345-nayanthara-xtanishq-rivaah-11 {
+  background: url('../assets/images/nupurPadhyeGaurviDesai173533345NayantharaXtanishqRivaah11.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: -56px;
+  top: -43px;
+  width: 452px;
+  height: 452px;
+}
+.drop-down .gujarathi-bride-1 {
+  border: 0.3px solid #700606;
+  overflow-wrap: break-word;
+  font-family: 'SterlingDisplay', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.611;
+  color: #700606;
+}
+.drop-down .frame-16481 {
+  background: linear-gradient(90deg, rgba(255, 238, 238, 0), rgba(255, 238, 238, 0.15), rgba(255, 238, 238, 0.75), rgba(255, 248, 248, 0.15), rgba(255, 255, 255, 0));
+  position: relative;
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1px 1.3px 1px 0;
+  width: 368px;
+  box-sizing: border-box;
+}
+.drop-down .vector-5 {
+  width: 16px;
+  height: 13px;
+}
+.drop-down .frame-17011 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+  background: #FFFFFF;
+  margin-right: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 8.5px;
+  width: 33px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .gujarathi-bride {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 2.071;
+  color: #700606;
+}
+.drop-down .frame-1648 {
+  border-radius: 6px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1px 10.8px 1px 10px;
+  box-sizing: border-box;
+}
+.drop-down .trending-in-gujarati-rivaah {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 2.071;
+  color: #700606;
+}
+.drop-down .frame-1649 {
+  border-radius: 6px;
+  background: rgba(255, 238, 238, 0.6);
+  position: absolute;
+  right: -207px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1px 10.6px 1px 10px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .what-other-brides-do {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 2.071;
+  color: #700606;
+}
+.drop-down .frame-1702 {
+  border-radius: 6px;
+  border: 1px solid #700606;
+  position: absolute;
+  right: -379px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 9.7px 0 9px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .frame-1650 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.drop-down .vector-6 {
+  width: 16px;
+  height: 13px;
+}
+.drop-down .frame-1703 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 8.5px;
+  width: 33px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .frame-1704 {
+  position: relative;
+  margin: 0 21px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 331px;
+  box-sizing: border-box;
+}
+.drop-down .mask-group {
+  border-radius: 20px;
+  background: url('../assets/images/image45.png');
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 287px 0 18px 0;
+  width: 368px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.drop-down .group-1725 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 368px;
+  box-sizing: border-box;
+}
+.drop-down .tamil-bride {
+  border: 0.3px solid #700606;
+  overflow-wrap: break-word;
+  font-family: 'SterlingDisplay', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.611;
+  color: #700606;
+}
+.drop-down .frame-16483 {
+  background: linear-gradient(90deg, rgba(255, 238, 238, 0), rgba(255, 238, 238, 0.22), rgba(255, 238, 238, 0.75), rgba(255, 248, 248, 0.19), rgba(255, 255, 255, 0));
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1px 1.1px 1px 0;
+  width: 367px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.drop-down .mask-group-1 {
+  border-radius: 20px;
+  background: url('../assets/images/image452.png') 50% / cover no-repeat;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 283px 1px 71px 0;
+  width: 368px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.drop-down .vector-7 {
+  width: 16px;
+  height: 13px;
+}
+.drop-down .frame-17012 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+  background: #FFFFFF;
+  margin-right: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 8.5px;
+  width: 33px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .panjabi-bride {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 2.071;
+  color: #700606;
+}
+.drop-down .frame-16482 {
+  border-radius: 6px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1px 10.5px 1px 10px;
+  box-sizing: border-box;
+}
+.drop-down .trending-in-panjabi-rivaah {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 2.071;
+  color: #700606;
+}
+.drop-down .frame-16491 {
+  border-radius: 6px;
+  border: 1px solid #700606;
+  position: absolute;
+  right: -203px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 9.3px 0 9px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .what-other-brides-do-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 2.071;
+  color: #700606;
+}
+.drop-down .frame-17021 {
+  border-radius: 6px;
+  border: 1px solid #700606;
+  position: absolute;
+  right: -375px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 9.7px 0 9px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .frame-16501 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.drop-down .vector-8 {
+  width: 16px;
+  height: 13px;
+}
+.drop-down .frame-17031 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 8.5px;
+  width: 33px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .container {
+  border-radius: 0 0 20px 20px;
+  background: linear-gradient(270deg, #FFD4D4, rgba(255, 246, 246, 0.545), rgba(255, 255, 255, 0));
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 22px 18px 16px;
+  box-sizing: border-box;
+}
+.drop-down .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-right: 1px;
+  width: 369px;
+  box-sizing: border-box;
+}
+.drop-down .rivash-1 {
+  background: url('../assets/images/rivash1.png');
+  position: absolute;
+  left: -25px;
+  top: -20px;
+  width: 417px;
+  height: 405px;
+}
+.drop-down .with-extra-bg-1 {
+  background: url('../assets/images/withExtraBg1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: -103px;
+  right: -93px;
+  width: 498px;
+  height: 576px;
+}
+.drop-down .tamil-bride-2 {
+  border: 0.3px solid #700606;
+  overflow-wrap: break-word;
+  font-family: 'SterlingDisplay', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.611;
+  color: #700606;
+}
+.drop-down .frame-16485 {
+  background: linear-gradient(90deg, rgba(255, 238, 238, 0), rgba(255, 238, 238, 0.22), rgba(255, 238, 238, 0.75), rgba(255, 248, 248, 0.19), rgba(255, 255, 255, 0));
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1px 1.1px 1px 0;
+  width: 367px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.drop-down .mask-group-2 {
+  border-radius: 20px;
+  background: url('../assets/images/nupurPadhyeGaurviDesai173533345NayantharaXtanishqRivaah31.png');
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 287px 1px 67px 0;
+  width: 368px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.drop-down .vector-9 {
+  width: 16px;
+  height: 13px;
+}
+.drop-down .frame-17013 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+  background: #FFFFFF;
+  margin-right: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 8.5px;
+  width: 33px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .tamil-bride-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 2.071;
+  color: #700606;
+}
+.drop-down .frame-16484 {
+  border-radius: 6px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1px 10.6px 1px 10px;
+  box-sizing: border-box;
+}
+.drop-down .trending-in-tamil-rivaah {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 2.071;
+  color: #700606;
+}
+.drop-down .frame-16492 {
+  border-radius: 6px;
+  border: 1px solid #700606;
+  position: absolute;
+  right: -191px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 9.3px 0 9px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .what-other-brides-do-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 2.071;
+  color: #700606;
+}
+.drop-down .frame-17022 {
+  border-radius: 6px;
+  border: 1px solid #700606;
+  position: absolute;
+  right: -363px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 9.7px 0 9px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .frame-16502 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.drop-down .vector-10 {
+  width: 16px;
+  height: 13px;
+}
+.drop-down .frame-17032 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 8.5px;
+  width: 33px;
+  height: 31px;
+  box-sizing: border-box;
+}
+.drop-down .container-1 {
+  border-radius: 0 0 20px 20px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0), rgba(255, 246, 246, 0.545), #FFEEEE);
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 21px 18px 17px;
+  box-sizing: border-box;
+}
+.drop-down .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-left: 1px;
+  width: 369px;
+  box-sizing: border-box;
+}
+.drop-down .group-1806 {
+  opacity: 0.4;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  column-gap: 62px;
+  padding: 0 39px 0 42px;
+  width: 1311px;
+  box-sizing: border-box;
+}
+.drop-down .tamil-bride-tamil-bride-trends-tamil-bride-trends {
+  overflow-wrap: break-word;
+  font-family: 'SterlingDisplay', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #2F2D2D;
+}
+.drop-down .container-2 {
+  border-radius: 8px;
+  background: #F8F8F8;
+  position: relative;
+  padding: 33.7px 14px 11.3px 14px;
+  box-sizing: border-box;
+}
+.drop-down .ta {
+  margin-right: 14.5px;
+  width: 215.5px;
+  overflow-wrap: break-word;
+  font-family: 'SterlingDisplay', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #2F2D2D;
+}
+.drop-down .vector-11 {
+  margin: 7.2px 0 6.8px 0;
+  width: 15px;
+  height: 15px;
+}
+.drop-down .frame-1773 {
+  border-radius: 7px;
+  border: 1px solid #B5B5B5;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.8px 11px;
+  width: 269px;
+  box-sizing: border-box;
+}
+.drop-down .group-1831 {
+  position: absolute;
+  left: 50%;
+  top: 156px;
+  translate: -50% 0;
+  padding-top: 1px;
+  box-sizing: border-box;
+}
+.drop-down {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 54px 65px 45px 64px;
+  width: 1440px;
+  box-sizing: border-box;
+}
